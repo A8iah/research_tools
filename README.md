@@ -10,7 +10,7 @@
 
 ---
 
-## Tools List / قائمة الأدوات
+## Tools List 
 
 | #   | Tool                | Link                                   |
 | --- | ------------------- | -------------------------------------- |
@@ -26,7 +26,7 @@
 
 ---
 
-## How to Use / كيفية الاستخدام
+## How to Use 
 
 1️⃣ **Search / ابحث** ← Google Scholar + IEEE + ACM
 
@@ -40,7 +40,5 @@
 
 ---
 
-## Notes / ملاحظات
-
-- All tools are free or have a free tier / جميع الأدوات مجانية أو لها نسخة مجانية
+## Notes 
 - Last updated / آخر تحديث: 2026
