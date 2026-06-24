@@ -29,9 +29,13 @@
 ## How to Use / كيفية الاستخدام
 
 1️⃣ **Search / ابحث** ← Google Scholar + IEEE + ACM
+
 2️⃣ **Discover More / اكتشف المزيد** ← Research Rabbit
+
 3️⃣ **Summarize & Understand / لخص وافهم** ← Elicit + SciSpace
+
 4️⃣ **Follow Latest / تابع الجديد** ← Hugging Face
+
 5️⃣ **Check & Translate / افحص وترجم** ← Copyleaks + DeepL
 
 ---
